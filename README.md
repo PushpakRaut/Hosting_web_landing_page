@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Tailwind CSS
 
 ![image](https://github.com/PushpakRaut/Hosting_web_landing_page/assets/85230759/c2cac158-bfe6-41d1-9655-d539737f79c0)
 
